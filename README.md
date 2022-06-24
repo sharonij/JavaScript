@@ -1,2 +1,2 @@
 # JavaScript
-ZuriTraining
+ZuriTraining - https://sharonij.github.io/JavaScript/
